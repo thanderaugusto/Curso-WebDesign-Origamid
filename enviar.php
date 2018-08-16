@@ -3,7 +3,7 @@
 // Mudar Aqui
 
 $email_envio = 'thander-99@hotmail.com'; // E-mail receptor
-$email_pass = 'LOLCURAXURANHa15'; // Senha do e-mail
+$email_pass = 'senha'; // Senha do e-mail
 
 $site_name = 'Bikcraft'; // Nome do Site
 $site_url = 'thanderaugusto.tk'; // URL do Site
